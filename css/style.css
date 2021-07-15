@@ -1,0 +1,49 @@
+.hidden { 
+    display: none;
+}
+
+html {
+    color: whitesmoke;
+    font-size: 2rem;
+    text-align: center;
+}
+
+input {
+    background: none;
+    border: 0;
+    font-size: 1.2rem;
+    border-bottom: 0.1rem solid whitesmoke;
+    width: 12rem;
+    text-align: center;
+    color: whitesmoke;
+}
+
+input::placeholder {
+    color: whitesmoke;
+}
+
+#quote span:first-child {
+    font-size: 1rem;
+}
+
+#quote span:last-child {
+    font-size: 0.7rem;
+}
+
+ul {
+    list-style: none;
+}
+
+#weather {
+    position: absolute;
+    top:0.5rem;
+    right:0.5rem;
+    font-size: 0.8rem;
+}
+
+button {
+    background: none;
+    border: 0;
+    font-size: 0.8rem;
+}
+
