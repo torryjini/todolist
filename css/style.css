@@ -23,11 +23,11 @@ input::placeholder {
 }
 
 #quote span:first-child {
-    font-size: 1rem;
+    font-size: 0.7rem;
 }
 
 #quote span:last-child {
-    font-size: 0.7rem;
+    font-size: 0.4rem;
 }
 
 ul {
@@ -47,3 +47,12 @@ button {
     font-size: 0.8rem;
 }
 
+#clock {
+    margin-top: 10%;
+    margin-bottom: 1rem;
+    font-size: 3.5rem;
+}
+
+#greetings {
+    margin-top: 0;
+}
